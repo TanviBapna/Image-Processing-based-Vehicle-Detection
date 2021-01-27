@@ -31,5 +31,3 @@ different sizes and returns a list of rectangles.
 5. We count the number of contours occurring in a frame, that will be the number of
 vehicles in the frame.
 
-
-# Hi
